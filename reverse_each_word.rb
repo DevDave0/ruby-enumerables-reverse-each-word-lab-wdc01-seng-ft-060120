@@ -1,8 +1,8 @@
 
 
 def reverse_each_word(argument)
-  
- argument.reverse
+  new_array = []
+ new_array << argument.split
 
   
 end
